@@ -21,9 +21,9 @@ end
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## References
-
-*  https://doi.org/10.3390/atmos10050257
-*  https://doi.org/10.1016/j.scitotenv.2020.138817
+*  Dataset: https://data.mendeley.com/datasets/kvnsn8nyhg/2
+*  Article: https://doi.org/10.3390/atmos10050257
+*  Article: https://doi.org/10.1016/j.scitotenv.2020.138817
 
 ## Intellectual author
 * **Alfonso Gutierrez-Lopez** - *alfonso.gutierrez@uaq.mx* -
