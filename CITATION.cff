@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Canton"
+  given-names: "Daniel"
+  orcid: "https://orcid.org/0000-0002-6543-5078"
+- family-names: "Niembro"
+  given-names: "Jose"
+- family-names: "Muñoz"
+  given-names: "Martin"
+  orcid: "https://orcid.org/0000-0003-3464-4456"
+- family-names: "Alarcon"
+  given-names: "Daniel"
+  orcid: "https://orcid.org/0000-0002-4893-7543"
+- family-names: "Arcadia"
+  given-names: "Jorge"
+- family-names: "Gonzalez"
+  given-names: "Iván"
+- family-names: "Montes"
+  given-names: "Agueda"
+- family-names: "Gutierrez"
+  given-names: "Alfonso"
+  orcid: "https://orcid.org/0000-0003-3464-4456"
+title: "Frequency analysis for confirmed cases of COVID-19 in 17 countries."
+version: 1.0.0
+date-released: 2021-09-09
+url: "https://github.com/dCantonE/FrequencyAnalysis"
