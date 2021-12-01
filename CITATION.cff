@@ -23,5 +23,6 @@ authors:
   orcid: "https://orcid.org/0000-0003-3464-4456"
 title: "Frequency analysis for confirmed cases of COVID-19 in 17 countries."
 version: 1.0.0
+doi: 10.13140/RG.2.2.14228.63361
 date-released: 2021-09-09
 url: "https://github.com/dCantonE/FrequencyAnalysis"
