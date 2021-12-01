@@ -1,4 +1,4 @@
-# FrequencyAnalysis
+# Frequency Analysis
 Frequency analysis for confirmed cases of COVID-19 in 17 countries. The fitted distributions are: One-Parameter Exponential, Two-Parameter Exponential and Gumbel. In addition, the frequencies of historical events expressed as a return period in days.
 
 
